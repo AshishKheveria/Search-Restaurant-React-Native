@@ -9,7 +9,7 @@ Developed entirely from React Native.
 ![IMG_0459](https://user-images.githubusercontent.com/76988309/125680557-067fa19e-9200-4d09-9abb-444fdeeaeb58.jpg)
 
 
-##############################################################################################
+####
 
 ![IMG_0460](https://user-images.githubusercontent.com/76988309/125680564-ef6a6d77-0c81-4fce-a3f5-532a3013858d.jpg)
 
